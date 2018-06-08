@@ -1,2 +1,2 @@
-# github-pr-tree-view
-🌳Tree view for Github pull requests
+# 🌳Tree view for Github PR
+Chrome extension
